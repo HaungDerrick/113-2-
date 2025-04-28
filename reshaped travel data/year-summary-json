@@ -1,0 +1,15 @@
+{
+  "description": "Summary statistics for numeric variable Year",
+  "operations": "summary, sd, is.na",
+  "summary": {
+    "Min.": 2002,
+    "1st Qu.": 2007,
+    "Median": 2013,
+    "Mean": 2013,
+    "3rd Qu.": 2019,
+    "Max.": 2024,
+    "sd": 6.6368,
+    "missing_count": 0,
+    "missing_proportion": 0
+  }
+}

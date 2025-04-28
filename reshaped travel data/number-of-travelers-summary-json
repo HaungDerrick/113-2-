@@ -1,0 +1,15 @@
+{
+  "description": "Summary statistics for numeric variable Number_of_Travelers",
+  "operations": "summary, sd, is.na",
+  "summary": {
+    "Min.": 0,
+    "1st Qu.": 1549.75,
+    "Median": 42944.5,
+    "Mean": 721486.124,
+    "3rd Qu.": 244325.25,
+    "Max.": 17101335,
+    "sd": 2405712.1782,
+    "missing_count": 201,
+    "missing_proportion": 0.2131
+  }
+}

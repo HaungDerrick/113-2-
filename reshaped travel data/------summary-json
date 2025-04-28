@@ -1,0 +1,12 @@
+{
+  "description": "Frequency count for categorical variable 首站抵達地",
+  "operations": "table",
+  "summary": {
+    "亞洲地區": 414,
+    "全區": 46,
+    "大洋洲地區": 115,
+    "歐洲地區": 207,
+    "美洲地區": 92,
+    "非洲地區": 69
+  }
+}
